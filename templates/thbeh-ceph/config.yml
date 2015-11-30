@@ -1,5 +1,0 @@
-name: Ceph
-description: |
-  Docker Volume Manager for Ceph Volumes
-version: v0.1
-category: Storage
